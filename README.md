@@ -21,8 +21,7 @@ This project implements an embedded system using the PIC16F877A microcontroller 
 - `adc/` – ADC driver code
 - `pwm/` – PWM driver code
 - `lcd/` – LCD driver code
-- `docs/` – Architecture and documentation
-- `schematics/` – Simulation or circuit diagram (if available)
+- `schematics/` – Circuit diagram 
 
 ## Author
 Balaji Panneerselvam
